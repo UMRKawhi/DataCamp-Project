@@ -19,7 +19,7 @@ I use my free time to study the courses on DataCamp. The goal is to complete all
 | [Analyzing TV Data](https://github.com/UMRKawhi/DataCamp-Project/tree/main/Analyzing%20TV%20Data) | [Use data manipulation and visualization to explore one of two different television broadcast datasets: The Super Bowl and hit sitcom The Office!](https://learn.datacamp.com/projects/tv-data) | :heavy_check_mark: | :heavy_check_mark: |  Python  |
 |            The Android App Market on Google Play             | [Load, clean, and visualize scraped Google Play Store data to gain insights into the Android app market.](https://learn.datacamp.com/projects/android-app-market/guided/[object%20Object]) |   :construction:   |   :construction:   |  Python  |
 
-<<<<<<< HEAD
+
 Legend: 
 
 * :construction: = In progress
