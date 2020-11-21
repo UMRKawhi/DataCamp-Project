@@ -18,3 +18,4 @@ I use my free time to study the courses on DataCamp. The goal is to complete all
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------: | :----------------: | :------: |
 | [Analyzing TV Data](https://github.com/UMRKawhi/DataCamp-Project/tree/main/Analyzing%20TV%20Data) | [Use data manipulation and visualization to explore one of two different television broadcast datasets: The Super Bowl and hit sitcom The Office!](https://learn.datacamp.com/projects/tv-data) | :heavy_check_mark: | :heavy_check_mark: |  Python  |
 
+
