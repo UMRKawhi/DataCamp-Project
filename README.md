@@ -18,7 +18,7 @@ I use my free time to study the courses on DataCamp. The goal is to complete all
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------: | :----------------: | :------: |
 | [Analyzing TV Data](https://github.com/UMRKawhi/DataCamp-Project/tree/main/Analyzing%20TV%20Data) | [Use data manipulation and visualization to explore one of two different television broadcast datasets: The Super Bowl and hit sitcom The Office!](https://learn.datacamp.com/projects/tv-data) | :heavy_check_mark: | :heavy_check_mark: |  Python  |
 | [The Android App Market on Google Play](https://github.com/UMRKawhi/DataCamp-Project/tree/main/The%20Android%20App%20Market%20on%20Google%20Play) | [Load, clean, and visualize scraped Google Play Store data to gain insights into the Android app market.](https://learn.datacamp.com/projects/android-app-market/guided/[object%20Object]) | :heavy_check_mark: | :heavy_check_mark: |  Python  |
-
+| The GitHub History of the Scala Language | Find the true Scala experts by exploring its development history in Git and GitHub. |:construction:|:negative_squared_cross_mark:|Python|
 
 Legend: 
 
