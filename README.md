@@ -21,6 +21,7 @@ I use my free time to study the courses on DataCamp. The goal is to complete all
 | [The GitHub History of the Scala Language](https://github.com/UMRKawhi/DataCamp-Project/tree/main/The%20GitHub%20History%20of%20the%20Scala%20Language) | [Find the true Scala experts by exploring its development history in Git and GitHub.](https://learn.datacamp.com/projects/163) |:heavy_check_mark:|:negative_squared_cross_mark:|Python|
 | A Visual History of Nobel Prize Winners | [Explore a dataset from Kaggle containing a century's worth of Nobel Laureates. Who won? Who got snubbed?](https://learn.datacamp.com/projects/nobel-winners/guided/[object%20Object]) |:construction:|:negative_squared_cross_mark:|Python & R|
 | [Exploring the History of Lego](https://github.com/UMRKawhi/DataCamp-Project/tree/main/Exploring%20the%20History%20of%20Lego) | [Use a variety of data manipulation techniques to explore different aspects of Lego's history!](https://learn.datacamp.com/projects/history-of-lego) |:heavy_check_mark:|:heavy_check_mark:|Python|
+| Dr. Semmelweis and the Discovery of Handwashing | [Reanalyse the data behind one of the most important discoveries of modern medicine: handwashing.](https://learn.datacamp.com/projects/discovery-of-handwashing/guided/[object%20Object]) |:construction:|:negative_squared_cross_mark:|Python & R|
 
 Legend: 
 
